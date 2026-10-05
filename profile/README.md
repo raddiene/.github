@@ -1,9 +1,6 @@
 <p>
   <a href="https://raddiene.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raddiene/.github/main/profile/logo-horizontal-reverse.svg">
-      <img src="https://raw.githubusercontent.com/raddiene/.github/main/profile/logo-horizontal-colour.svg" alt="Raddiene" height="56">
-    </picture>
+    <img src="https://raw.githubusercontent.com/raddiene/.github/main/profile/logo-panel.svg" alt="Raddiene" height="64">
   </a>
 </p>
 
